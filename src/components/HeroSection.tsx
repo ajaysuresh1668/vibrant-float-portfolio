@@ -31,7 +31,7 @@ const HeroSection = () => {
               className="font-heading text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight"
             >
               Hi, I'm{" "}
-              <span className="gradient-text">Suresh Philips</span>
+              <span className="gradient-text">AJAY</span>
             </motion.h1>
 
             <motion.p
@@ -145,7 +145,7 @@ const HeroSection = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden glow-effect border-4 border-neon-purple/50">
                 <img
                   src={profilePhoto}
-                  alt="Suresh Philips"
+                  alt="AJAY"
                   className="w-full h-full object-cover"
                 />
               </div>
