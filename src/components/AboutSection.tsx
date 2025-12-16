@@ -54,7 +54,7 @@ const AboutSection = () => {
                 Professional Summary
               </h3>
               <p className="text-muted-foreground mb-4 leading-relaxed">
-                I'm Suresh Philips, a creative professional with a passion for building 
+                I'm AJAY, a creative professional with a passion for building 
                 innovative digital solutions. With expertise spanning web development, 
                 design, and digital strategy, I bring ideas to life with precision and creativity.
               </p>

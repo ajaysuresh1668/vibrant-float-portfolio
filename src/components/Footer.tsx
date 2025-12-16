@@ -52,7 +52,7 @@ const Footer = () => {
             className="text-center md:text-left"
           >
             <h3 className="font-heading text-2xl font-bold gradient-text mb-2">
-              Suresh Philips
+              AJAY
             </h3>
             <p className="text-muted-foreground text-sm">
               Creative Professional & Developer
@@ -109,7 +109,7 @@ const Footer = () => {
           className="mt-8 pt-8 border-t border-border/30 text-center"
         >
           <p className="text-muted-foreground text-sm">
-            © {new Date().getFullYear()} Suresh Philips. All rights reserved.
+            © {new Date().getFullYear()} AJAY. All rights reserved.
           </p>
         </motion.div>
       </div>
